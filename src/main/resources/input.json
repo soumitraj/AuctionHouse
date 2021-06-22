@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oId1",
+    "type": "newItem",
+    "name": "CoolWatch",
+    "description": "CoolestWatch",
+    "timeOfAuction": 600
+  },
+  {
+    "id": "bId1",
+    "type": "bid",
+    "name": "Tom",
+    "itemName": "Bicycle",
+    "item": "oId1",
+    "startingBid": 100,
+    "maxBid": 1000,
+    "bidIncrement": 30
+  }
+]
