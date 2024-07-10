@@ -1,5 +1,5 @@
 # AuctionHouse
-
+Actor Model Based Auction system
 To run the project please execute :  `mvn compile exec:exec`
 
 ### Files :
